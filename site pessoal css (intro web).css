@@ -1,0 +1,12 @@
+/* Custom CSS */
+
+body,p {
+	font-family: Arial, sans-serif;
+    color:darkgray;
+}
+
+h1,h2 {
+    color:purple;
+    text-transform:uppercase;
+    font-weight:100
+}
